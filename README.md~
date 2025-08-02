@@ -1,4 +1,4 @@
-# Simple Python Calculator 🧮
+#Simple Python Calculator 🧮
 
 This is a basic command-line calculator built with Python.  
 It allows a user to input **two numbers** and choose a **mathematical operation**:  
@@ -11,7 +11,7 @@ It allows a user to input **two numbers** and choose a **mathematical operation*
 - Handles division by zero gracefully.
 - Displays results in a user-friendly format.
 
-## 🚀 How to Use
+##🚀 How to Use
 
 1. Make sure you have **Python 3** installed on your system.
 2. Download or copy the code into a file named `calculator.py`.
@@ -20,7 +20,7 @@ It allows a user to input **two numbers** and choose a **mathematical operation*
 ```bash
 python calculator.py
 
-## Example
+##Example
 mathematica
 Copy
 Edit
