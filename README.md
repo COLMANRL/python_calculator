@@ -4,14 +4,14 @@ This is a basic command-line calculator built with Python.
 It allows a user to input **two numbers** and choose a **mathematical operation**:  
 **addition**, **subtraction**, **multiplication**, or **division**.
 
-## 💡Features
+## 💡 Features
 
 - Accepts user input for numbers and operations.
 - Uses Python functions (`def`) to handle each arithmetic operation.
 - Handles division by zero gracefully.
 - Displays results in a user-friendly format.
 
-## 🚀How to Use
+## 🚀 How to Use
 
 1. Make sure you have **Python 3** installed on your system.
 2. Download or copy the code into a file named `calculator.py`.
@@ -29,7 +29,7 @@ Enter the second number: 5
 Enter an operation (+, -, *, /): +  
 10.0 + 5.0 = 15.0
 
-## 📁File Structure
+## 📁 File Structure
 bash
 Copy
 Edit
