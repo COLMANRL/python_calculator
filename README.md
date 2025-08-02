@@ -16,11 +16,10 @@ It allows a user to input **two numbers** and choose a **mathematical operation*
 1. Make sure you have **Python 3** installed on your system.
 2. Download or copy the code into a file named `calculator.py`.
 3. Run the program from your terminal or command prompt:
-
-```bash
+(bash)
 python calculator.py
 
-##Example
+## Example
 mathematica
 Copy
 Edit
@@ -36,10 +35,10 @@ Edit
 calculator.py     # Main program file
 README.md         # This file
 
-## 📘Requirements
+## 📘 Requirements
 Python 3.x
 
-🛠️ Future Improvements
+## 🛠️ Future Improvements
 Support for more operations (modulus, exponentiation, etc.)
 
 Allow continuous calculations
